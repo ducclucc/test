@@ -1,2 +1,2 @@
-# test
-this is a test
+import os
+os.remove('D:/test.txt')
