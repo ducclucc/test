@@ -1,2 +1,2 @@
-with open('D:/e.txt', 'w') as f:
-  f.write("hello")
+import os
+os.remove("D:/e.txt")
